@@ -31,13 +31,25 @@ The video lectures of Trevor Hastie and Robert Tibshirani are available at https
 
 ## Chapter 3: Linear Regression
 ### Simple Linear Regression and Confidence Intervals (13:01)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/PsE9UqoWtS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Hypothesis Testing (8:24)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/J6AdoiNUyWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Multiple Linear Regression and Interpreting Regression Coefficients (15:38)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/1hbCJyM9ccs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Model Selection and Qualitative Predictors (14:51)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/3T6RXmIHbJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Interactions and Nonlinearity (14:16)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/IFzVxLv0TKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## R Lab session Chapter 3
 ### Lab: Linear Regression (22:10)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/5ONFqIk3RFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Chapter 4: Classification
 ### Introduction to Classification (10:25)
