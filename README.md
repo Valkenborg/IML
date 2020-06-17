@@ -5,3 +5,5 @@ Welcome the landing page of the coursework entitled "Introduction to Machine Lea
 
 This course will provide deep-dive content, such as video sessions, jupiter notebooks and mathematical proofs to further explore important concepts that were only briefly introduced in their handbooK.
 
+
+<iframe width="877" height="493" src="https://www.youtube.com/embed/2wLfFB_6SKI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
