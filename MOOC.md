@@ -5,15 +5,17 @@ The video lectures of Trevor Hastie and Robert Tibshirani are available at https
 
 ## Chapter 1: Introduction
 ### Opening Remarks and Examples (18:18) 
-<iframe width="877" height="493" src="https://www.youtube.com/embed/2wLfFB_6SKI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="439" height="220" src="https://www.youtube.com/embed/2wLfFB_6SKI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Supervised and Unsupervised Learning (12:12)
-<iframe width="877" height="493" src="https://www.youtube.com/embed/LvaTokhYnDw?list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="439" height="220" src="https://www.youtube.com/embed/LvaTokhYnDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 ## Chapter 2: Statistical Learning
 ### Statistical Learning and Regression (11:41)
+<iframe width="877" height="493" src="https://www.youtube.com/embed/WjyuiK5taS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Curse of Dimensionality and Parametric Models (11:40)
 ### Assessing Model Accuracy and Bias-Variance Trade-off (10:04)
 ### Classification Problems and K-Nearest Neighbors (15:37)
