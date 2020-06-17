@@ -7,5 +7,7 @@ This course will use the handbook as backbone and provide deep-dive content, suc
 
 The lab sessions at the end of each session can be viewed as static [webpage](JUPYTER) and are available for dowonload.
 
+The powerpoint presentation can be found [overhere](PP).
+
 
 
