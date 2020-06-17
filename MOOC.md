@@ -53,18 +53,38 @@ The video lectures of Trevor Hastie and Robert Tibshirani are available at https
 
 ## Chapter 4: Classification
 ### Introduction to Classification (10:25)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/sqq21-VIa1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Logistic Regression and Maximum Likelihood (9:07)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/31Q5FGRnxt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Multivariate Logistic Regression and Confounding (9:53)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/MpX8rVv_u4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Case-Control Sampling and Multiclass Logistic Regression (7:28)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/GavRXXEHGqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Linear Discriminant Analysis and Bayes Theorem (7:12)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/RfrGiG1Hm3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Univariate Linear Discriminant Analysis (7:37)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/QG0pVJXT6EU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Multivariate Linear Discriminant Analysis and ROC Curves (17:42)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/X4VDZDp2vqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Quadratic Discriminant Analysis and Naive Bayes (10:07)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/6FiNGTYAOAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## R Lab session Chapter 4
 ### Lab: Logistic Regression (10:14)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/TxvEVc8YNlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Lab: Linear Discriminant Analysis (8:22)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/2cl7JiPzkBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Lab: K-Nearest Neighbors (5:01)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/9TVVF7CS3F4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Chapter 5: Resampling Methods
 ### Estimating Prediction Error and Validation Set Approach (14:01)
