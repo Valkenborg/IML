@@ -17,17 +17,17 @@ The video lectures of Trevor Hastie and Robert Tibshirani are available at https
 <iframe width="439" height="220" src="https://www.youtube.com/embed/WjyuiK5taS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Curse of Dimensionality and Parametric Models (11:40)
-<iframe width="439" height="220" src="https://www.youtube.com/embed/WjyuiK5taS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="439" height="220" src="https://www.youtube.com/embed/UvxHOkYQl8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Assessing Model Accuracy and Bias-Variance Trade-off (10:04)
-<iframe width="439" height="220" src="https://www.youtube.com/embed/WjyuiK5taS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="439" height="220" src="https://www.youtube.com/embed/VusKAosxxyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Classification Problems and K-Nearest Neighbors (15:37)
-<iframe width="439" height="220" src="https://www.youtube.com/embed/WjyuiK5taS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="439" height="220" src="https://www.youtube.com/embed/vVj2itVNku4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## R Lab session Chapter 2
 ### Lab: Introduction to R (14:12)
-<iframe width="439" height="220" src="https://www.youtube.com/embed/WjyuiK5taS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="439" height="220" src="https://www.youtube.com/embed/jwBgGS_4RQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Chapter 3: Linear Regression
 ### Simple Linear Regression and Confidence Intervals (13:01)
