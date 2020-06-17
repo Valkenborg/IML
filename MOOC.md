@@ -88,72 +88,120 @@ The video lectures of Trevor Hastie and Robert Tibshirani are available spanning
 
 ## Chapter 5: Resampling Methods
 ### Estimating Prediction Error and Validation Set Approach (14:01)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/_2ij6eaaSl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### K-fold Cross-Validation (13:33)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/nZAM5OXrktY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Cross-Validation: The Right and Wrong Ways (10:07)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/S06JpVoNaA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### The Bootstrap (11:29)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/p4BYWX7PTBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### More on the Bootstrap (14:35)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/BzHz0J9a6k0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## R Lab session Chapter 5
 ### Lab: Cross-Validation (11:21)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/6dSXlqHAoMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Lab: The Bootstrap (7:40)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/YVSmsWoBKnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Chapter 6: Linear Model Selection and Regularization
 ### Linear Model Selection and Best Subset Selection (13:44)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/91si52nk3LA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Forward Stepwise Selection (12:26)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/nLpJd_iKmrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Backward Stepwise Selection (5:26)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/NJhMSpI2Uj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Estimating Test Error Using Mallow’s Cp, AIC, BIC, Adjusted R-squared (14:06)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/LkifE44myLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Estimating Test Error Using Cross-Validation (8:43)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/3p9JNaJCOb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Shrinkage Methods and Ridge Regression (12:37)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/cSKzqb0EKS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### The Lasso (15:21)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/A5I1G1MfUmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Tuning Parameter Selection for Ridge Regression and Lasso (5:27)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/xMKVUstjXBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Dimension Reduction (4:45)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/QlyROnAjnEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Principal Components Regression and Partial Least Squares (15:48)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/eYxwWGJcOfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## R Lab session Chapter 6
 ### Lab: Best Subset Selection (10:36)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/3kwdDGnV8MM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Lab: Forward Stepwise Selection and Model Selection Using Validation Set (10:32)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/mv-vdysZIb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Lab: Model Selection Using Cross-Validation (5:32)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/F8MMHCCoALU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Lab: Ridge Regression and Lasso (16:34)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/1REe3qSotx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Chapter 7: Moving Beyond Linearity
 ### Polynomial Regression and Step Functions (14:59)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/gtXQXA7qF3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Piecewise Polynomials and Splines (13:13)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/7ZIqzTNB8lk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Smoothing Splines (10:10)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/mxXHJa1DsWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Local Regression and Generalized Additive Models (10:45)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/N2hBXqPiegQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## R Lab session Chapter 7
 ### Lab: Polynomials (21:11)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/uQBnDGu6TYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Lab: Splines and Generalized Additive Models (12:15)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/DCn83aXXuHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Chapter 8: Tree-Based Methods
 ### Decision Trees (14:37)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/6ENTbK3yQUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Pruning a Decision Tree (11:45)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/GfPR7Xhdokc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Classification Trees and Comparison with Linear Models (11:00)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/hPEJoITBbQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Bootstrap Aggregation (Bagging) and Random Forests (13:45)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/lq_xzBRIWm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Boosting and Variable Importance (12:03)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/U3MdBNysk9w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## R Lab session Chapter 8
 ### Lab: Decision Trees (10:13)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/0wZUXtvAtDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Lab: Random Forests and Boosting (15:35)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/IY7oWGXb77o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Chapter 9: Support Vector Machines
 ### Maximal Margin Classifier (11:35)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/QpbynqiTCsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Support Vector Classifier (8:04)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/xKsTsGE7KpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Kernels and Support Vector Machines (15:04)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/dm32QvCW7wE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Example and Comparison with Logistic Regression (14:47)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/mI18GD4_ysE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## R Lab session Chapter 9
 ### Lab: Support Vector Machine for Classification (10:13)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/qhyyufR0930" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Lab: Nonlinear Support Vector Machine (7:54)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/L3n2VF7yKkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Chapter 10: Unsupervised Learning
 ### Unsupervised Learning and Principal Components Analysis (12:37)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/ipyxSYXgzjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Exploring Principal Components Analysis and Proportion of Variance Explained (17:39)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/dbuSGWCgdzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### K-means Clustering (17:17)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/aIybuNt9ps4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Hierarchical Clustering (14:45)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/Tuuc9Y06tAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Breast Cancer Example of Hierarchical Clustering (9:24)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/yUJcTpWNY_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## R Lab session Chapter 10 
 ### Lab: Principal Components Analysis (6:28)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/lFHISDj_4EQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Lab: K-means Clustering (6:31)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/YDubYJsZ9iM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Lab: Hierarchical Clustering (6:33)
+<iframe width="439" height="220" src="https://www.youtube.com/embed/4u3zvtfqb7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
