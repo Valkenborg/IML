@@ -5,9 +5,9 @@ Welcome to the landing page of the coursework entitled "Introduction to Machine 
 
 This course will use the handbook as backbone and provide deep-dive content, such as video presentations, jupiter notebooks and some mathematical underpinning to important concepts that were only briefly introduced in the handbook. But before runing comes walking. Therefore it is good to revise the material in the handbook by watching the [video lectures](MOOC) of Trevor Hastie and Robert Tibshirani. 
 
-The lab sessions at the end of each session can be viewed as static [webpage](JUPYTER) and are available for dowonload.
+The lab sessions at the end of each session can be viewed as static [webpage](JUPYTER) and are available for download.
 
-The powerpoint presentation can be found [overhere](PP).
+The powerpoint presentation for lecturing and workshops can be found [overhere](PP).
 
 
 
