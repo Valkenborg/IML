@@ -6,6 +6,7 @@ The video lectures of Trevor Hastie and Robert Tibshirani are available at https
 ## Chapter 1: Introduction
 ### Opening Remarks and Examples (18:18) 
 <iframe width="877" height="493" src="https://www.youtube.com/embed/2wLfFB_6SKI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Supervised and Unsupervised Learning (12:12)
 <iframe width="877" height="493" src="https://www.youtube.com/embed/LvaTokhYnDw?list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
