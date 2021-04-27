@@ -9,5 +9,5 @@ The lab sessions at the end of each session can be viewed as static [webpage](JU
 
 The powerpoint presentation for lecturing and workshops can be found [overhere](PP).
 
-We included some [example exam questions](https://github.com/Valkenborg/IML/tree/master/Exam_questions) to help guide you through the chapters. Keep these questions in mind during studying, it will help you understand the material
+We included some [example exam questions](https://github.com/Valkenborg/IML/tree/master/Exam_questions) to help guide you through the chapters. Keep these questions in mind during studying, it will help you understand the material.
 
