@@ -1,6 +1,6 @@
 # Video lectures
 
-The video lectures of Trevor Hastie and Robert Tibshirani are available spanning more than 15 hours of expert video can be found at [https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/). For you convenience the entire series of video lectures are embedded in the web page below and oranganized by bookchapter:
+The video lectures of Trevor Hastie and Robert Tibshirani are available spanning more than 15 hours of expert video can be found at [https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/). For you convenience the entire series of video lectures are embedded in the web page below and oranganized by bookchapter:
 
 
 ## Chapter 1: Introduction
