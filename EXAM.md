@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Exam questions
 
 Please use the pool of exam questions that can help you to direct your attention to the important parts of the book chapters and enhanced understanding of the course material:
