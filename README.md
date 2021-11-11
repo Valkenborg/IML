@@ -1,5 +1,6 @@
 ---
 title: Home
+permalink: /
 ---
 # IML
 Introduction to Machine Learning
