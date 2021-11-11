@@ -1,3 +1,7 @@
+---
+title: Lab sessions
+---
+
 # Exercise sessions
 
 The execise sessions for the book “An Introduction to Statistical Learning with Applications in R” can be found here:
